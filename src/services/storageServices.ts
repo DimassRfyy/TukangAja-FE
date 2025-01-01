@@ -1,0 +1,1 @@
+export const STORAGE_URL = import.meta.env.VITE_REACT_API_STORAGE_URL;
